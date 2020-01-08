@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FuckRunning</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!--    Permissions    -->
+    <string name="permission_rationale_location">应用需要使用定位服务来获取您当前的位置信息。</string>
+    <string name="location_permission_denied">应用需要开启定位权限来获取您当前的位置。\n如果您选择了\“不再询问\”，请通过 设置 &gt; 应用 &gt; \FuckRunning\ 修改。</string>
+</resources>
